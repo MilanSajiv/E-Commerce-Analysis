@@ -19,7 +19,8 @@ Create interactive dashboards and reports in Power BI.
 Develop visualizations to understand customer segmentation, revenue distribution, and sales trends.
 Dataset
 
-## Source: E-Commerce Data on Kaggle
+## Source: 
+E-Commerce Data on Kaggle - (https://www.kaggle.com/datasets/omartinsky/e-commerce-data)
 
 ## Description: 
 This dataset contains transactions from a UK-based non-store online retail company between December 2010 and December 2011.
