@@ -64,5 +64,5 @@ Use the provided Power BI report template to build your interactive dashboards a
 Data Exploration: Use SQL queries to explore and analyze data directly from the SQL Server.
 Data Visualization: Interact with the Power BI dashboards to view and analyze visualizations, including customer segmentation and revenue distribution.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
